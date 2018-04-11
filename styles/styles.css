@@ -420,6 +420,8 @@ textarea {
       color: currentColor; }
   .footer-btn {
     border: 0;
+    box-shadow: none;
+    outline: none;
     padding: 1.5rem;
     background-color: rgba(255, 255, 255, 0.5);
     width: calc(30% - 1rem);
